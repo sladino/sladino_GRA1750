@@ -1,0 +1,24 @@
+body{
+	background-image: url(https://storge.pic2.me/cm/2880x1800/469/527c28ec8be51.jpg);
+	background-repeat: repeat-y;
+}
+.link{
+	color: red;
+}
+
+.title{
+	font-family: Arial;
+	color: #AA25CC;
+	font-size: 30px;
+}
+
+#pic1{
+	border: solid black 2px;
+}
+
+#pic2{
+	border: dashed blue 3px;
+}
+#pic3{
+	border: dotted yellow 5px; 
+}

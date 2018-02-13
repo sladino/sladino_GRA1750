@@ -1,0 +1,28 @@
+h3{
+	font-size: 36pt;
+	font-family: Garamond;
+	color: #369e24;
+}
+
+.human{
+	background-color: grey;
+	width: 100px;
+	height: 300px;
+	position: absolute;
+	top: 30px; 
+	left: 200px
+}
+a{
+	font-size: 50pt;
+	color:#ffffff;
+}
+#container{
+	background-color: black;
+	border: 20px dotted white;
+	height: 100px;
+	width: 400px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	margin: 0 auto;
+}
